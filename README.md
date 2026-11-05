@@ -1,292 +1,459 @@
-<!-- ========================================= -->
-<!-- RAJ RATHORE | ANIMATED GITHUB PROFILE     -->
-<!-- CYBERPUNK / NEON / SECURITY EDITION       -->
-<!-- ========================================= -->
+<!--
+RAJ.EXE | DEVELOPER RPG
+Gamified GitHub Profile
+-->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:050816,25:101C48,50:5426A8,75:087CA7,100:00E5FF&height=260&section=header&text=RAJ%20RATHORE&fontSize=65&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20ENGINEER%20%7C%20CYBERSECURITY%20%7C%20OPEN%20SOURCE&descSize=14&descAlignY=58&animation=twinkling"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B1A,35:171B4B,70:5429A6,100:00D9FF&text=RAJ.EXE&fontSize=85&fontColor=FFFFFF&fontAlignY=40&desc=THE%20DEVELOPER%20UNIVERSE&descSize=19&descAlignY=62&animation=twinkling"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2200&pause=700&color=00E5FF&center=true&vCenter=true&multiline=false&width=750&height=60&lines=%3E+Initializing+Raj's+Developer+Universe...;%3E+Building+Scalable+Backend+Systems...;%3E+Exploring+Cybersecurity+%26+Ethical+Hacking...;%3E+Contributing+To+Open+Source...;%3E+AI+%2B+Code+%2B+Security+%3D+Future"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&duration=2200&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+SOFTWARE+ENGINEER;%3E+BACKEND+SYSTEMS+BUILDER;%3E+AI%2FML+EXPLORER;%3E+CYBERSECURITY+APPRENTICE;%3E+OPEN+SOURCE+ENTHUSIAST"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RAJ-RATHORE07&style=for-the-badge&color=00D4FF&label=VISITORS"/>
-<img src="https://img.shields.io/github/followers/RAJ-RATHORE07?style=for-the-badge&color=7B2FFF&label=FOLLOWERS"/>
-<img src="https://img.shields.io/badge/STATUS-ALWAYS%20LEARNING-00C853?style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=RAJ-RATHORE07&style=for-the-badge&color=00D9FF&label=PROFILE+EXPLORERS"/>
+<img src="https://img.shields.io/github/followers/RAJ-RATHORE07?style=for-the-badge&color=805AD5&label=ALLIES"/>
 
 <br/><br/>
 
-<a href="https://github.com/RAJ-RATHORE07">
-<img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-<a href="https://www.linkedin.com/in/raj-rajeshwari-rathore/">
-<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-<a href="mailto:rajrajeshwarirathore07@gmail.com">
-<img src="https://img.shields.io/badge/CONTACT-FF3366?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
+<a href="https://github.com/RAJ-RATHORE07">GITHUB</a> ◈
+<a href="https://www.linkedin.com/in/raj-rajeshwari-rathore/">LINKEDIN</a> ◈
+<a href="mailto:rajrajeshwarirathore07@gmail.com">CONTACT</a>
 
 </div>
 
 ---
 
-<div align="center">
+# 🎮 PLAYER PROFILE
 
-# ⚡ SYSTEM ONLINE
+<table>
+<tr>
+<td width="32%" align="center">
 
-```text
-╔══════════════════════════════════════════════╗
-║             RAJ RATHORE // PROFILE           ║
-╠══════════════════════════════════════════════╣
-║  ID       : SOFTWARE ENGINEER                ║
-║  INTEREST : BACKEND | AI/ML | CYBERSECURITY  ║
-║  MISSION  : BUILD • SECURE • CONTRIBUTE      ║
-║  MODE     : LEARNING IN PUBLIC               ║
-║  STATUS   : EXPLORING OPEN SOURCE            ║
-╚══════════════════════════════════════════════╝
+<img src="https://github.com/RAJ-RATHORE07.png" width="170" style="border-radius:50%"/>
+
+### RAJ RATHORE
+
+`PLAYER 001`
+
+**SOFTWARE ENGINEER**
+
+</td>
+<td width="68%">
+
+```yaml
+PLAYER: Raj Rajeshwari Rathore
+CLASS: Software Engineer
+EDUCATION: B.Tech Computer Science
+UNIVERSITY: Mody University
+
+PRIMARY_SPECIALIZATION:
+  - Backend Engineering
+  - Full Stack Development
+  - AI / Machine Learning
+
+NEW SKILL PATHS:
+  - Cybersecurity
+  - Open Source
+
+CURRENT_MODE: Learning & Building
+LOCATION: Rajasthan, India
 ```
 
-</div>
+**My mission:** Build meaningful software, understand how systems work, learn how to secure them, and contribute to the open-source ecosystem.
 
-## 👨‍💻 `whoami`
+</td>
+</tr>
+</table>
 
-Hey! I'm **Raj Rajeshwari Rathore**, a Computer Science Engineer passionate about engineering, intelligent systems, and building technology that matters.
-
-I started my journey with software development, backend engineering, and AI/ML. Now I'm expanding into the exciting worlds of cybersecurity and open source.
-
-I enjoy understanding how things work behind the scenes — from designing APIs and distributed systems to exploring application security and system vulnerabilities.
-
-```python
-class Developer:
-
-    name = "Raj Rajeshwari Rathore"
-    role = "Software Engineer"
-
-    interests = [
-        "Backend Engineering",
-        "Cybersecurity",
-        "Open Source",
-        "Artificial Intelligence",
-        "System Design"
-    ]
-
-    current_focus = [
-        "Secure Application Development",
-        "Ethical Hacking Fundamentals",
-        "Open Source Contributions",
-        "Distributed Systems"
-    ]
-
-    motto = "Think. Build. Secure. Contribute."
-```
+> "Every system has a story. Every vulnerability has a lesson. Every contribution makes the ecosystem stronger."
 
 ---
 
-## 🔥 MY TECHNICAL UNIVERSE
+# 🗺️ THE DEVELOPER WORLD MAP
 
 <div align="center">
 
+| WORLD | SPECIALIZATION | STATUS |
+|:---|:---|:---|
+| ⚙️ Backend Kingdom | Java, Spring Boot, APIs | UNLOCKED |
+| 🌐 Web Development | React, JavaScript, Node.js | UNLOCKED |
+| 🤖 AI Laboratory | Python, ML, LLMs | EXPLORING |
+| 🔐 Cybersecurity Realm | OWASP, Linux, Web Security | NEW QUEST |
+| 🌍 Open Source Universe | Git, PRs, Collaboration | NEW QUEST |
+| 🧠 Algorithm Arena | DSA, Problem Solving | ACTIVE |
+
+</div>
+
+---
+
+# 🌳 SKILL TREE
+
+### ⚙️ Engineering Skills
+
+<p>
 <img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,react,nodejs,spring,fastapi,flask&theme=dark&perline=5"/>
+</p>
 
-<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,kafka,git,github,linux,vscode&theme=dark&perline=5"/>
+### 🗄️ Infrastructure & Databases
 
-</div>
+<p>
+<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,kafka,git,github,linux&theme=dark&perline=5"/>
+</p>
 
-<div align="center">
+### 🔐 Security Skill Path
 
-| DOMAIN | WHAT I'M EXPLORING |
+| SKILL | JOURNEY |
 |:---|:---|
-| ⚙️ Backend | Spring Boot, FastAPI, Microservices |
-| 🔐 Security | OWASP, Linux, Network Security |
-| 🌍 Open Source | Git, GitHub, PRs, Collaboration |
-| 🤖 AI/ML | Python, Scikit-Learn, LLMs |
-| 🗄️ Databases | PostgreSQL, Redis, Supabase |
+| Linux fundamentals | Learning |
+| Network security | Learning |
+| OWASP Top 10 | Exploring |
+| Web application security | Exploring |
+| Secure authentication | Practical development experience |
+| Vulnerability assessment | Learning |
 
-</div>
+### 🌍 Open Source Skill Path
+
+| SKILL | JOURNEY |
+|:---|:---|
+| Git & GitHub | Practical experience |
+| Repository exploration | In progress |
+| Documentation | Learning |
+| Pull request workflow | Building experience |
+| Community collaboration | Upcoming quest |
 
 ---
 
-## 🔐 INTO THE CYBERSECURITY WORLD
+# 🎯 MISSION CONTROL
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43C/giphy.gif" width="350"/>
-
-### `ACCESS GRANTED // LEARNING MODE`
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=NEW+MISSION+DETECTED...;CYBERSECURITY+TRAINING+INITIATED;OPEN+SOURCE+JOURNEY+ACTIVATED;BUILDING+THE+NEXT+GENERATION+OF+PROJECTS"/>
 
 </div>
 
-I'm currently stepping into cybersecurity, learning to think beyond just writing code — understanding how applications can be attacked, protected, and made more resilient.
+<details>
+<summary>🔐 QUEST 01 — Cybersecurity Explorer</summary>
 
-**My learning roadmap:**
+**Mission:** Learn to identify vulnerabilities and build safer applications.
 
-- 🔒 OWASP Top 10
-- 🐧 Linux and command-line fundamentals
-- 🌐 Networking and security protocols
-- 🛡️ Web application security
-- 🔍 Vulnerability assessment
-- 🔑 Authentication and authorization
-- ⚔️ Ethical hacking in authorized lab environments
+- [ ] Learn OWASP Top 10.
+- [ ] Practice Linux and networking.
+- [ ] Complete hands-on security labs.
+- [ ] Build a Python security utility.
+- [ ] Document security research and learning.
 
-> My goal is to become an engineer who knows not only how to build systems, but also how to secure them.
+</details>
+
+<details>
+<summary>🌍 QUEST 02 — Open Source Contributor</summary>
+
+**Mission:** Become a meaningful part of developer communities.
+
+- [ ] Explore established repositories.
+- [ ] Find beginner-friendly issues.
+- [ ] Submit a first meaningful pull request.
+- [ ] Contribute bug fixes and documentation.
+- [ ] Collaborate with maintainers.
+
+</details>
+
+<details>
+<summary>⚙️ QUEST 03 — Backend Architect</summary>
+
+**Mission:** Build scalable and resilient systems.
+
+- [x] Build REST APIs.
+- [x] Work with microservices.
+- [x] Explore event-driven architecture.
+- [ ] Deepen system design knowledge.
+- [ ] Build more distributed applications.
+
+</details>
+
+<details>
+<summary>🤖 QUEST 04 — AI Explorer</summary>
+
+**Mission:** Build practical intelligent applications.
+
+- [x] Build an ML recommendation engine.
+- [x] Work with large datasets.
+- [x] Explore LLM post-training workflows.
+- [ ] Build more intelligent developer tools.
+
+</details>
 
 ---
 
-## 🌍 OPEN SOURCE // CONTRIBUTION MODE
+# 🏗️ PROJECT WORLD — MY BUILDS
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="280"/>
-
-### `git commit -m "Starting my open source journey"`
+### SELECT A MISSION TO EXPLORE
 
 </div>
 
-I'm excited to become part of the open-source ecosystem.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Currently focusing on:
+### 🥗 MISSION 01
+## Diet Recommendation Engine
 
-- Finding beginner-friendly repositories.
-- Understanding real-world codebases.
-- Making meaningful pull requests.
-- Improving documentation and testing.
-- Learning from open-source maintainers.
-- Building tools that help developers and security enthusiasts.
+`COMPLETED PROJECT`
 
-**Open source is where learning meets collaboration.**
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
+
+An ML-powered personalized food recommendation system.
+
+- 500K+ recipes processed.
+- 0.7M+ user reviews analyzed.
+- Content-based filtering.
+- Real-time recommendation APIs.
+- Docker containerization.
+
+<a href="https://github.com/RAJ-RATHORE07/Diet-Recommendation">⚔️ ENTER PROJECT</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 💳 MISSION 02
+## Trust & Payment Backend
+
+`COMPLETED PROJECT`
+
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white"/>
+
+A microservices-based fintech backend.
+
+- Idempotent payment APIs.
+- Kafka event-driven architecture.
+- Redis token management.
+- JWT authentication.
+- PostgreSQL integration.
+
+<a href="https://github.com/RAJ-RATHORE07/trust-rewards-backend">⚔️ ENTER PROJECT</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🎙️ MISSION 03
+## Multilingual Text-to-Speech
+
+`FULL-STACK PROJECT`
+
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask"/>
+
+A multilingual text-to-speech web application.
+
+- React frontend.
+- Flask backend.
+- Voice selection.
+- Speech generation and playback.
+
+<a href="https://github.com/RAJ-RATHORE07/text_to_speech-">⚔️ ENTER PROJECT</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 MISSION 04
+## Code Assistant API
+
+`AI / DEVELOPER TOOL`
+
+A repository exploring AI-powered developer assistance.
+
+- Developer-focused API project.
+- Go-based implementation.
+
+<a href="https://github.com/RAJ-RATHORE07/code-assistant-api">⚔️ ENTER PROJECT</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 MISSION 05
+## URL Shortener
+
+`WEB DEVELOPMENT`
+
+A URL-shortening project.
+
+- PHP implementation.
+- Explore the source and implementation.
+
+<a href="https://github.com/RAJ-RATHORE07/URL-Shortner">⚔️ ENTER PROJECT</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🎮 MISSION 06
+## Mini Games Collection
+
+`JAVASCRIPT`
+
+A collection of browser-based games.
+
+- Tic-Tac-Toe.
+- Rock-Paper-Scissors.
+- Snake game.
+- Interactive gameplay.
+
+<a href="https://github.com/RAJ-RATHORE07/game">⚔️ ENTER PROJECT</a>
+
+</td>
+</tr>
+</table>
 
 ---
 
-## 🚀 PROJECTS // DEPLOYED IN MY LAB
+# 🏆 ACHIEVEMENT VAULT
 
 <div align="center">
 
-<a href="https://github.com/RAJ-RATHORE07/Diet-Recommendation">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ-RATHORE07&repo=Diet-Recommendation&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/RAJ-RATHORE07/trust-rewards-backend">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ-RATHORE07&repo=trust-rewards-backend&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/RAJ-RATHORE07/text_to_speech-">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ-RATHORE07&repo=text_to_speech-&theme=tokyonight&hide_border=true"/>
-</a>
-
-<a href="https://github.com/RAJ-RATHORE07/code-assistant-api">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=RAJ-RATHORE07&repo=code-assistant-api&theme=tokyonight&hide_border=true"/>
-</a>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,100:8A2BE2"/>
 
 </div>
 
+<table>
+<tr>
+<td align="center" width="33%">
+
+## 🥉
+### HACKATHON BRONZE
+
+**3rd Place**
+
+Google Solutions Challenge
+
+GDSC – MUST
+
+</td>
+<td align="center" width="33%">
+
+## 🥇
+### CHESS CHAMPION
+
+**Gold Medal**
+
+Mody Khel Utsav
+
+</td>
+<td align="center" width="33%">
+
+## 🥇
+### FOOTBALL CHAMPION
+
+**Gold Medal**
+
+Mody Khel Utsav
+
+</td>
+</tr>
+</table>
+
+### 🎖️ Additional Unlocks
+
+- 🧠 200+ LeetCode problems solved.
+- 🤝 Management Head — NSS.
+- 🎖️ NCC Member.
+- 📰 Social Media Head — ENGINIUM Magazine.
+
 ---
 
-## 💼 EXPERIENCE // PROFESSIONAL JOURNEY
+# 💼 EXPERIENCE LEVELS
 
-**Ethara AI** — LLM Post-Training Intern
+### 🧪 ETHARA AI
+`LLM POST-TRAINING INTERN` | March 2026 – May 2026
 
-`March 2026 – May 2026`
-
-- Prompt engineering and LLM output evaluation.
+- Prompt evaluation and optimization.
 - Dataset validation and classification.
-- Quality assurance of AI-generated responses.
+- LLM response quality assurance.
+- AI output analysis and edge-case identification.
 
-**Cyberous** — Software Developer Intern
+### ⚙️ CYBEROUS
+`SOFTWARE DEVELOPER INTERN` | January 2025 – August 2025
 
-`January 2025 – August 2025`
-
-- Developed 5 role-based dashboards.
+- Built 5 role-based dashboards.
 - Supported 300+ users.
-- Implemented authentication across 20+ API endpoints.
-- Automated attendance and batch management.
+- Implemented role-based authentication across 20+ API endpoints.
+- Automated attendance and batch management for 100+ students and 10+ trainers.
 
 ---
 
-## 🏆 ACHIEVEMENTS UNLOCKED
+# 📊 PLAYER STATISTICS
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/GOOGLE%20SOLUTIONS%20CHALLENGE-3RD%20PLACE-FFD700?style=for-the-badge&logo=google&logoColor=black"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RAJ-RATHORE07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-<img src="https://img.shields.io/badge/LEETCODE-200%2B%20PROBLEMS-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/CHESS-GOLD%20MEDAL-8A2BE2?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/FOOTBALL-GOLD%20MEDAL-00C853?style=for-the-badge"/>
-
-</div>
-
----
-
-## 📊 GITHUB // LIVE ANALYTICS
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RAJ-RATHORE07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-RATHORE07&layout=compact&theme=tokyonight&hide_border=true"/>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-RATHORE07&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="80%" src="https://streak-stats.demolab.com?user=RAJ-RATHORE07&theme=tokyonight&hide_border=true&background=0D1117"/>
+<img width="85%" src="https://streak-stats.demolab.com?user=RAJ-RATHORE07&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-RATHORE07&bg_color=0d1117&color=00e5ff&line=7b2fff&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-RATHORE07&bg_color=0d1117&color=00d9ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=PLAYER+ACTIVITY+MAP"/>
 
 </div>
 
 ---
 
-## 🐍 THE CONTRIBUTION SNAKE
+# 🐍 CONTRIBUTION BATTLEFIELD
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RAJ-RATHORE07/RAJ-RATHORE07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated GitHub contribution snake"/>
+<img src="https://raw.githubusercontent.com/RAJ-RATHORE07/RAJ-RATHORE07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
 
 </div>
 
 ---
 
-## 🎯 2026 — THE NEXT LEVEL
+# 🎮 NEXT LEVEL — 2026 / 2027
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=9D4EDD&center=true&vCenter=true&width=650&lines=01.+Master+Backend+Architecture;02.+Explore+Cybersecurity;03.+Contribute+To+Open+Source;04.+Build+Real+World+Projects;05.+Never+Stop+Learning"/>
+| LEVEL PATH | NEXT OBJECTIVE |
+|:---|:---|
+| 🔐 Security | Build practical security projects |
+| 🌍 Open Source | Make meaningful upstream contributions |
+| ⚙️ Engineering | Master distributed systems |
+| 🤖 AI | Build intelligent applications |
+| 🧠 DSA | Improve problem-solving skills |
+
+### THE JOURNEY IS STILL LOADING...
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=NO+FINAL+BOSS+YET.;STILL+LEARNING.;STILL+BUILDING.;STILL+LEVELING+UP."/>
 
 </div>
 
-- [ ] Build a practical cybersecurity tool.
-- [ ] Complete hands-on web security labs.
-- [ ] Make meaningful open-source contributions.
-- [ ] Improve system design fundamentals.
-- [ ] Build and document more engineering projects.
-
 ---
 
-## 🤝 CONNECT WITH ME
+# 🤝 JOIN MY NETWORK
 
 <div align="center">
 
-### Have an idea? Let's build it.
+### Want to collaborate, build, or explore ideas?
 
 <a href="https://www.linkedin.com/in/raj-rajeshwari-rathore/">
-<img src="https://img.shields.io/badge/LINKEDIN-Connect%20With%20Me-0A66C2?style=for-the-badge&logo=linkedin"/>
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
 </a>
-
 <a href="mailto:rajrajeshwarirathore07@gmail.com">
-<img src="https://img.shields.io/badge/EMAIL-Say%20Hello-EA4335?style=for-the-badge&logo=gmail"/>
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail"/>
 </a>
-
 <a href="https://github.com/RAJ-RATHORE07">
-<img src="https://img.shields.io/badge/GITHUB-Follow%20My%20Journey-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=for-the-badge&logo=github"/>
 </a>
 
 <br/><br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=2500&pause=1000&color=00E5FF&center=true&vCenter=true&width=650&lines=BUILD+SOMETHING+MEANINGFUL.;MAKE+IT+SECURE.;MAKE+IT+OPEN+SOURCE."/>
+**BUILD. EXPLORE. SECURE. CONTRIBUTE. LEVEL UP.**
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00E5FF,50:5426A8,100:050816&height=150&section=footer&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D9FF,50:5429A6,100:080B1A&section=footer&animation=twinkling"/>
 
 </div>
