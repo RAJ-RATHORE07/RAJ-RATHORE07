@@ -1,24 +1,41 @@
+
 <!--
-RAJ.EXE | DEVELOPER RPG
-Gamified GitHub Profile
+  RAJ RAJESHWARI RATHORE
+  GitHub Profile README
+  Theme: Midnight Cyber / Electric Blue / Purple
 -->
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B1A,35:171B4B,70:5429A6,100:00D9FF&text=RAJ.EXE&fontSize=85&fontColor=FFFFFF&fontAlignY=40&desc=THE%20DEVELOPER%20UNIVERSE&descSize=19&descAlignY=62&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=230&color=0:090979,50:301B70,100:00D4FF&text=RAJ%20RATHORE&fontSize=55&fontColor=FFFFFF&fontAlignY=38&desc=BUILD%20%E2%80%A2%20SECURE%20%E2%80%A2%20CONTRIBUTE&descSize=17&descAlignY=58&animation=fadeIn" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&duration=2200&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+SOFTWARE+ENGINEER;%3E+BACKEND+SYSTEMS+BUILDER;%3E+AI%2FML+EXPLORER;%3E+CYBERSECURITY+APPRENTICE;%3E+OPEN+SOURCE+ENTHUSIAST"/>
+### `Software Engineer` · `Backend Developer` · `AI/ML Explorer` · `Cybersecurity Explorer` · `Open Source Contributor`
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2800&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Building+Scalable+Backend+Systems+%F0%9F%9A%80;Exploring+Cybersecurity+%F0%9F%94%90;Stepping+Into+Open+Source+%F0%9F%8C%8D;Exploring+AI%2FML+%26+Intelligent+Systems+%F0%9F%A4%96;Learning.+Building.+Contributing." />
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=RAJ-RATHORE07&style=for-the-badge&color=00D9FF&label=PROFILE+EXPLORERS"/>
-<img src="https://img.shields.io/github/followers/RAJ-RATHORE07?style=for-the-badge&color=805AD5&label=ALLIES"/>
+<a href="https://github.com/RAJ-RATHORE07">
+<img src="https://komarev.com/ghpvc/?username=RAJ-RATHORE07&style=for-the-badge&color=0891b2&label=PROFILE+VIEWS"/>
+</a>
+<a href="https://github.com/RAJ-RATHORE07?tab=followers">
+<img src="https://img.shields.io/github/followers/RAJ-RATHORE07?style=for-the-badge&color=6C63FF&label=FOLLOWERS"/>
+</a>
+<a href="https://github.com/RAJ-RATHORE07?tab=repositories">
+<img src="https://img.shields.io/badge/FOCUS-OPEN%20SOURCE-00C9A7?style=for-the-badge"/>
+</a>
 
 <br/><br/>
 
-<a href="https://github.com/RAJ-RATHORE07">GITHUB</a> ◈
-<a href="https://www.linkedin.com/in/raj-rajeshwari-rathore/">LINKEDIN</a> ◈
-<a href="mailto:rajrajeshwarirathore07@gmail.com">CONTACT</a>
+<a href="https://www.linkedin.com/in/raj-rajeshwari-rathore/">
+<img src="https://img.shields.io/badge/LINKEDIN-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:rajrajeshwarirathore07@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-Let's%20Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://github.com/RAJ-RATHORE07">
+<img src="https://img.shields.io/badge/GITHUB-Explore%20My%20Work-181717?style=for-the-badge&logo=github"/>
+</a>
 
 </div>
 
@@ -79,8 +96,8 @@ LOCATION: Rajasthan, India
 | ⚙️ Backend Kingdom | Java, Spring Boot, APIs | UNLOCKED |
 | 🌐 Web Development | React, JavaScript, Node.js | UNLOCKED |
 | 🤖 AI Laboratory | Python, ML, LLMs | EXPLORING |
-| 🔐 Cybersecurity Realm | OWASP, Linux, Web Security | NEW QUEST |
-| 🌍 Open Source Universe | Git, PRs, Collaboration | NEW QUEST |
+| 🔐 Cybersecurity Realm | OWASP, Linux, Web Security | ACTIVE |
+| 🌍 Open Source Universe | Git, PRs, Collaboration | ACTIVE |
 | 🧠 Algorithm Arena | DSA, Problem Solving | ACTIVE |
 
 </div>
@@ -105,10 +122,10 @@ LOCATION: Rajasthan, India
 
 | SKILL | JOURNEY |
 |:---|:---|
-| Linux fundamentals | Learning |
+| Linux fundamentals | Practical experience |
 | Network security | Learning |
 | OWASP Top 10 | Exploring |
-| Web application security | Exploring |
+| Web application security | Practical development experience |
 | Secure authentication | Practical development experience |
 | Vulnerability assessment | Learning |
 
@@ -137,7 +154,7 @@ LOCATION: Rajasthan, India
 
 **Mission:** Learn to identify vulnerabilities and build safer applications.
 
-- [ ] Learn OWASP Top 10.
+- [ 🎯 ] Learn OWASP Top 10.
 - [ ] Practice Linux and networking.
 - [ ] Complete hands-on security labs.
 - [ ] Build a Python security utility.
