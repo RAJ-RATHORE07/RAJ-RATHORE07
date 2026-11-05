@@ -1,269 +1,459 @@
+<!--
+RAJ.EXE | DEVELOPER RPG
+Gamified GitHub Profile
+-->
+
 <div align="center">
 
-<img src="./assets/mascot.gif" width="150" alt="Cyber-Kit, Raj's floating cyber companion" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:080B1A,35:171B4B,70:5429A6,100:00D9FF&text=RAJ.EXE&fontSize=85&fontColor=FFFFFF&fontAlignY=40&desc=THE%20DEVELOPER%20UNIVERSE&descSize=19&descAlignY=62&animation=twinkling"/>
 
-# ⚡ RAJ.EXE — THE DEVELOPER UNIVERSE
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&duration=2200&color=00E5FF&center=true&vCenter=true&width=800&lines=%3E+SOFTWARE+ENGINEER;%3E+BACKEND+SYSTEMS+BUILDER;%3E+AI%2FML+EXPLORER;%3E+CYBERSECURITY+APPRENTICE;%3E+OPEN+SOURCE+ENTHUSIAST"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&duration=2200&pause=800&color=00E5FF&center=true&vCenter=true&width=760&lines=Software+Engineer;Backend+Systems+Builder;AI%2FML+Explorer;Cybersecurity+Learner;Open+Source+Contributor+in+the+Making" alt="Animated role titles" />
+<br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:080B1A,50:5429A6,100:00D9FF&section=header" width="100%" />
+<img src="https://komarev.com/ghpvc/?username=RAJ-RATHORE07&style=for-the-badge&color=00D9FF&label=PROFILE+EXPLORERS"/>
+<img src="https://img.shields.io/github/followers/RAJ-RATHORE07?style=for-the-badge&color=805AD5&label=ALLIES"/>
 
-<a href="https://github.com/RAJ-RATHORE07"><img src="https://img.shields.io/badge/GitHub-Explore%20my%20work-181717?style=for-the-badge&logo=github" /></a>
-<a href="https://www.linkedin.com/in/raj-rajeshwari-rathore/"><img src="https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:rajrajeshwarirathore07@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail" /></a>
+<br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=RAJ-RATHORE07&style=for-the-badge&color=00D9FF&label=PROFILE+VISITS" alt="Profile visits" />
+<a href="https://github.com/RAJ-RATHORE07">GITHUB</a> ◈
+<a href="https://www.linkedin.com/in/raj-rajeshwari-rathore/">LINKEDIN</a> ◈
+<a href="mailto:rajrajeshwarirathore07@gmail.com">CONTACT</a>
 
 </div>
 
 ---
 
-## 🎮 PLAYER PROFILE
+# 🎮 PLAYER PROFILE
 
 <table>
 <tr>
-<td width="65%" valign="middle">
+<td width="32%" align="center">
 
-Hey, I'm **Raj Rajeshwari Rathore**, a Computer Science Engineer interested in building useful software, understanding how systems work, and making them more secure.
+<img src="https://github.com/RAJ-RATHORE07.png" width="170" style="border-radius:50%"/>
 
-My experience spans backend and full-stack development, AI/ML applications, APIs, authentication, and data-driven systems. I'm now expanding into **cybersecurity** and **open source**, learning in public and looking for meaningful ways to contribute.
+### RAJ RATHORE
 
-**My motto:** Build it. Understand it. Secure it. Share it.
+`PLAYER 001`
+
+**SOFTWARE ENGINEER**
 
 </td>
-<td width="35%" align="center" valign="middle">
+<td width="68%">
 
-<img src="./assets/mascot.gif" width="180" alt="Cyber-Kit floating companion" />
+```yaml
+PLAYER: Raj Rajeshwari Rathore
+CLASS: Software Engineer
+EDUCATION: B.Tech Computer Science
+UNIVERSITY: Mody University
 
-**CYBER-KIT**  
-*Your friendly profile companion*
+PRIMARY_SPECIALIZATION:
+  - Backend Engineering
+  - Full Stack Development
+  - AI / Machine Learning
+
+NEW SKILL PATHS:
+  - Cybersecurity
+  - Open Source
+
+CURRENT_MODE: Learning & Building
+LOCATION: Rajasthan, India
+```
+
+**My mission:** Build meaningful software, understand how systems work, learn how to secure them, and contribute to the open-source ecosystem.
 
 </td>
 </tr>
 </table>
 
-```text
-PLAYER   : Raj Rajeshwari Rathore
-CLASS    : Software Engineer
-BASE     : Rajasthan, India
-FOCUS    : Backend • AI/ML • Cybersecurity • Open Source
-STATUS   : Learning, building and exploring
-```
+> "Every system has a story. Every vulnerability has a lesson. Every contribution makes the ecosystem stronger."
 
-## 🗺️ DEVELOPER WORLD MAP
+---
 
-| World | Current focus | Status |
-|---|---|---|
-| ⚙️ Backend Engineering | Java, Spring Boot, APIs, microservices | Hands-on experience |
-| 🌐 Full-Stack Development | React, JavaScript, Node.js | Hands-on experience |
-| 🤖 AI / ML | Python, recommendation systems, LLM workflows | Project & internship experience |
-| 🔐 Cybersecurity | OWASP, Linux, networking, application security | Learning path |
-| 🌍 Open Source | Repository exploration, issues, pull requests | Getting started |
-| 🧠 Problem Solving | Data structures and algorithms | 200+ LeetCode problems solved |
+# 🗺️ THE DEVELOPER WORLD MAP
 
-## 🌳 SKILL TREE
+<div align="center">
 
-**Languages**
+| WORLD | SPECIALIZATION | STATUS |
+|:---|:---|:---|
+| ⚙️ Backend Kingdom | Java, Spring Boot, APIs | UNLOCKED |
+| 🌐 Web Development | React, JavaScript, Node.js | UNLOCKED |
+| 🤖 AI Laboratory | Python, ML, LLMs | EXPLORING |
+| 🔐 Cybersecurity Realm | OWASP, Linux, Web Security | NEW QUEST |
+| 🌍 Open Source Universe | Git, PRs, Collaboration | NEW QUEST |
+| 🧠 Algorithm Arena | DSA, Problem Solving | ACTIVE |
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js&theme=dark" alt="Java, Python, C++, C and JavaScript" />
-</p>
+</div>
 
-**Frameworks and development**
+---
+
+# 🌳 SKILL TREE
+
+### ⚙️ Engineering Skills
 
 <p>
-<img src="https://skillicons.dev/icons?i=react,nodejs,spring,fastapi,flask&theme=dark" alt="React, Node.js, Spring, FastAPI and Flask" />
+<img src="https://skillicons.dev/icons?i=java,python,cpp,c,js,react,nodejs,spring,fastapi,flask&theme=dark&perline=5"/>
 </p>
 
-**Databases, infrastructure and tools**
+### 🗄️ Infrastructure & Databases
 
 <p>
-<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,kafka,git,github,linux&theme=dark" alt="PostgreSQL, Redis, Supabase, Docker, Kafka, Git, GitHub and Linux" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,supabase,docker,kafka,git,github,linux&theme=dark&perline=5"/>
 </p>
 
-**Concepts:** REST APIs · Microservices · API Gateway · JWT Authentication · Event-Driven Architecture · Database Management
+### 🔐 Security Skill Path
 
-## 🏗️ PROJECT QUESTS
+| SKILL | JOURNEY |
+|:---|:---|
+| Linux fundamentals | Learning |
+| Network security | Learning |
+| OWASP Top 10 | Exploring |
+| Web application security | Exploring |
+| Secure authentication | Practical development experience |
+| Vulnerability assessment | Learning |
+
+### 🌍 Open Source Skill Path
+
+| SKILL | JOURNEY |
+|:---|:---|
+| Git & GitHub | Practical experience |
+| Repository exploration | In progress |
+| Documentation | Learning |
+| Pull request workflow | Building experience |
+| Community collaboration | Upcoming quest |
+
+---
+
+# 🎯 MISSION CONTROL
+
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=NEW+MISSION+DETECTED...;CYBERSECURITY+TRAINING+INITIATED;OPEN+SOURCE+JOURNEY+ACTIVATED;BUILDING+THE+NEXT+GENERATION+OF+PROJECTS"/>
+
+</div>
+
+<details>
+<summary>🔐 QUEST 01 — Cybersecurity Explorer</summary>
+
+**Mission:** Learn to identify vulnerabilities and build safer applications.
+
+- [ ] Learn OWASP Top 10.
+- [ ] Practice Linux and networking.
+- [ ] Complete hands-on security labs.
+- [ ] Build a Python security utility.
+- [ ] Document security research and learning.
+
+</details>
+
+<details>
+<summary>🌍 QUEST 02 — Open Source Contributor</summary>
+
+**Mission:** Become a meaningful part of developer communities.
+
+- [ ] Explore established repositories.
+- [ ] Find beginner-friendly issues.
+- [ ] Submit a first meaningful pull request.
+- [ ] Contribute bug fixes and documentation.
+- [ ] Collaborate with maintainers.
+
+</details>
+
+<details>
+<summary>⚙️ QUEST 03 — Backend Architect</summary>
+
+**Mission:** Build scalable and resilient systems.
+
+- [x] Build REST APIs.
+- [x] Work with microservices.
+- [x] Explore event-driven architecture.
+- [ ] Deepen system design knowledge.
+- [ ] Build more distributed applications.
+
+</details>
+
+<details>
+<summary>🤖 QUEST 04 — AI Explorer</summary>
+
+**Mission:** Build practical intelligent applications.
+
+- [x] Build an ML recommendation engine.
+- [x] Work with large datasets.
+- [x] Explore LLM post-training workflows.
+- [ ] Build more intelligent developer tools.
+
+</details>
+
+---
+
+# 🏗️ PROJECT WORLD — MY BUILDS
+
+<div align="center">
+
+### SELECT A MISSION TO EXPLORE
+
+</div>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🥗 Diet Recommendation Engine
+### 🥗 MISSION 01
+## Diet Recommendation Engine
 
-**Python · FastAPI · Scikit-learn · Docker**
+`COMPLETED PROJECT`
 
-- Personalized food recommendations using content-based filtering.
-- Worked with 500K+ recipes and 0.7M+ user reviews.
-- FastAPI endpoints with response times under 1000 ms.
-- Dockerized for deployment.
+<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/> <img src="https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white"/>
 
-[⚔️ Explore repository](https://github.com/RAJ-RATHORE07/Diet-Recommendation)
+An ML-powered personalized food recommendation system.
 
-</td>
-<td width="50%" valign="top">
+- 500K+ recipes processed.
+- 0.7M+ user reviews analyzed.
+- Content-based filtering.
+- Real-time recommendation APIs.
+- Docker containerization.
 
-### 💳 Trust & Payment Processing Backend
-
-**Java · Spring Boot · Kafka · Redis**
-
-- Microservices-based fintech backend.
-- Idempotent payment APIs to prevent duplicate transactions.
-- Event-driven communication with Kafka.
-- JWT authentication and Redis token management.
-
-[⚔️ Explore repository](https://github.com/RAJ-RATHORE07/trust-rewards-backend)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🎙️ Text-to-Speech Application
-
-**Frontend · Python / Flask**
-
-- Web application for text-to-speech functionality.
-- Explore the implementation and source code.
-
-[⚔️ Explore repository](https://github.com/RAJ-RATHORE07/text_to_speech-)
+<a href="https://github.com/RAJ-RATHORE07/Diet-Recommendation">⚔️ ENTER PROJECT</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 Code Assistant API
+### 💳 MISSION 02
+## Trust & Payment Backend
 
-**Developer tool / API project**
+`COMPLETED PROJECT`
 
-- An API-focused project in the developer-assistance space.
-- Visit the repository for implementation details.
+<img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white"/> <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white"/>
 
-[⚔️ Explore repository](https://github.com/RAJ-RATHORE07/code-assistant-api)
+A microservices-based fintech backend.
+
+- Idempotent payment APIs.
+- Kafka event-driven architecture.
+- Redis token management.
+- JWT authentication.
+- PostgreSQL integration.
+
+<a href="https://github.com/RAJ-RATHORE07/trust-rewards-backend">⚔️ ENTER PROJECT</a>
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 URL Shortener
+### 🎙️ MISSION 03
+## Multilingual Text-to-Speech
+
+`FULL-STACK PROJECT`
+
+<img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black"/> <img src="https://img.shields.io/badge/Flask-000000?logo=flask"/>
+
+A multilingual text-to-speech web application.
+
+- React frontend.
+- Flask backend.
+- Voice selection.
+- Speech generation and playback.
+
+<a href="https://github.com/RAJ-RATHORE07/text_to_speech-">⚔️ ENTER PROJECT</a>
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 MISSION 04
+## Code Assistant API
+
+`AI / DEVELOPER TOOL`
+
+A repository exploring AI-powered developer assistance.
+
+- Developer-focused API project.
+- Go-based implementation.
+
+<a href="https://github.com/RAJ-RATHORE07/code-assistant-api">⚔️ ENTER PROJECT</a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔗 MISSION 05
+## URL Shortener
+
+`WEB DEVELOPMENT`
 
 A URL-shortening project.
 
-[⚔️ Explore repository](https://github.com/RAJ-RATHORE07/URL-Shortner)
+- PHP implementation.
+- Explore the source and implementation.
+
+<a href="https://github.com/RAJ-RATHORE07/URL-Shortner">⚔️ ENTER PROJECT</a>
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Mini Games
+### 🎮 MISSION 06
+## Mini Games Collection
 
-A collection of browser-based mini games.
+`JAVASCRIPT`
 
-[⚔️ Explore repository](https://github.com/RAJ-RATHORE07/game)
+A collection of browser-based games.
+
+- Tic-Tac-Toe.
+- Rock-Paper-Scissors.
+- Snake game.
+- Interactive gameplay.
+
+<a href="https://github.com/RAJ-RATHORE07/game">⚔️ ENTER PROJECT</a>
 
 </td>
 </tr>
 </table>
 
-## 💼 EXPERIENCE
+---
 
-### Ethara AI — LLM Post-Training Intern
-*March 2026 – May 2026 · Remote*
-
-- Evaluated and optimized prompts to improve response quality, consistency and relevance.
-- Validated datasets and reviewed model outputs against quality guidelines.
-- Classified structured datasets and performed quality assurance on AI-generated responses.
-
-### Cyberous — Software Developer Intern
-*January 2025 – August 2025 · Remote*
-
-- Built five role-based dashboards using React, Supabase and PostgreSQL, supporting 300+ users.
-- Developed centralized administration for users, batches, trainers and platform operations.
-- Implemented role-based authentication and authorization across 20+ API endpoints.
-- Built attendance and batch management workflows for 100+ students and 10+ trainers.
-
-## 🏆 ACHIEVEMENT VAULT
-
-| Badge | Achievement |
-|---|---|
-| 🥉 | 3rd Place — Google Solutions Challenge Hackathon (GDSC-MUST) |
-| 🥇 | Gold Medal — Chess, Mody Khel Utsav |
-| 🥇 | Gold Medal — Football, Mody Khel Utsav |
-| 🧠 | Solved 200+ Data Structures & Algorithms problems on LeetCode |
-| 🤝 | Management Head — NSS |
-| 🎖️ | NCC Member |
-| 📰 | Social Media Head — ENGINIUM Magazine |
-
-## 🔐 CURRENT QUESTS
-
-<details>
-<summary><b>Quest 01 — Cybersecurity explorer</b></summary>
-
-- [ ] Study OWASP Top 10 and common web vulnerabilities.
-- [ ] Strengthen Linux and networking fundamentals.
-- [ ] Practice in authorized security labs.
-- [ ] Build and document a small defensive security tool.
-
-</details>
-
-<details>
-<summary><b>Quest 02 — Open source journey</b></summary>
-
-- [ ] Explore projects and their contribution guidelines.
-- [ ] Start with documentation, tests or beginner-friendly issues.
-- [ ] Submit meaningful pull requests.
-- [ ] Learn from maintainers and the community.
-
-</details>
-
-<details>
-<summary><b>Quest 03 — Backend architect</b></summary>
-
-- [x] Build REST APIs and backend applications.
-- [x] Work with authentication and authorization.
-- [x] Explore microservices and event-driven architecture.
-- [ ] Deepen system design and distributed systems knowledge.
-
-</details>
-
-## 📊 PLAYER STATISTICS
+# 🏆 ACHIEVEMENT VAULT
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=RAJ-RATHORE07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-RATHORE07&layout=compact&theme=tokyonight&hide_border=true" alt="Most used languages" />
-
-<br/><br/>
-
-<img width="80%" src="https://streak-stats.demolab.com?user=RAJ-RATHORE07&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-<br/><br/>
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-RATHORE07&bg_color=0d1117&color=00d9ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=CONTRIBUTION%20ACTIVITY" alt="GitHub activity graph" />
+<img src="https://capsule-render.vercel.app/api?type=rect&height=3&color=0:00D9FF,100:8A2BE2"/>
 
 </div>
 
-## 🐍 CONTRIBUTION CREATURE
+<table>
+<tr>
+<td align="center" width="33%">
+
+## 🥉
+### HACKATHON BRONZE
+
+**3rd Place**
+
+Google Solutions Challenge
+
+GDSC – MUST
+
+</td>
+<td align="center" width="33%">
+
+## 🥇
+### CHESS CHAMPION
+
+**Gold Medal**
+
+Mody Khel Utsav
+
+</td>
+<td align="center" width="33%">
+
+## 🥇
+### FOOTBALL CHAMPION
+
+**Gold Medal**
+
+Mody Khel Utsav
+
+</td>
+</tr>
+</table>
+
+### 🎖️ Additional Unlocks
+
+- 🧠 200+ LeetCode problems solved.
+- 🤝 Management Head — NSS.
+- 🎖️ NCC Member.
+- 📰 Social Media Head — ENGINIUM Magazine.
+
+---
+
+# 💼 EXPERIENCE LEVELS
+
+### 🧪 ETHARA AI
+`LLM POST-TRAINING INTERN` | March 2026 – May 2026
+
+- Prompt evaluation and optimization.
+- Dataset validation and classification.
+- LLM response quality assurance.
+- AI output analysis and edge-case identification.
+
+### ⚙️ CYBEROUS
+`SOFTWARE DEVELOPER INTERN` | January 2025 – August 2025
+
+- Built 5 role-based dashboards.
+- Supported 300+ users.
+- Implemented role-based authentication across 20+ API endpoints.
+- Automated attendance and batch management for 100+ students and 10+ trainers.
+
+---
+
+# 📊 PLAYER STATISTICS
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/RAJ-RATHORE07/RAJ-RATHORE07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Animated contribution snake" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=RAJ-RATHORE07&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github"/>
 
-</div>
-
-## 🤝 CONNECT & COLLABORATE
-
-I'm interested in software engineering, backend systems, AI/ML, cybersecurity learning, and open-source collaboration.
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/raj-rajeshwari-rathore/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" /></a>
-<a href="mailto:rajrajeshwarirathore07@gmail.com"><img src="https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail" /></a>
-<a href="https://github.com/RAJ-RATHORE07"><img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github" /></a>
+<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAJ-RATHORE07&layout=compact&theme=tokyonight&hide_border=true"/>
 
 <br/><br/>
 
-**BUILD · EXPLORE · SECURE · CONTRIBUTE · LEVEL UP**
+<img width="85%" src="https://streak-stats.demolab.com?user=RAJ-RATHORE07&theme=tokyonight&hide_border=true"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=130&color=0:00D9FF,50:5429A6,100:080B1A&section=footer" width="100%" />
+<br/><br/>
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=RAJ-RATHORE07&bg_color=0d1117&color=00d9ff&line=8b5cf6&point=ffffff&area=true&hide_border=true&custom_title=PLAYER+ACTIVITY+MAP"/>
+
+</div>
+
+---
+
+# 🐍 CONTRIBUTION BATTLEFIELD
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/RAJ-RATHORE07/RAJ-RATHORE07/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Contribution snake animation"/>
+
+</div>
+
+---
+
+# 🎮 NEXT LEVEL — 2026 / 2027
+
+<div align="center">
+
+| LEVEL PATH | NEXT OBJECTIVE |
+|:---|:---|
+| 🔐 Security | Build practical security projects |
+| 🌍 Open Source | Make meaningful upstream contributions |
+| ⚙️ Engineering | Master distributed systems |
+| 🤖 AI | Build intelligent applications |
+| 🧠 DSA | Improve problem-solving skills |
+
+### THE JOURNEY IS STILL LOADING...
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1000&color=00E5FF&center=true&vCenter=true&width=700&lines=NO+FINAL+BOSS+YET.;STILL+LEARNING.;STILL+BUILDING.;STILL+LEVELING+UP."/>
+
+</div>
+
+---
+
+# 🤝 JOIN MY NETWORK
+
+<div align="center">
+
+### Want to collaborate, build, or explore ideas?
+
+<a href="https://www.linkedin.com/in/raj-rajeshwari-rathore/">
+<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:rajrajeshwarirathore07@gmail.com">
+<img src="https://img.shields.io/badge/EMAIL-CONTACT-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+<a href="https://github.com/RAJ-RATHORE07">
+<img src="https://img.shields.io/badge/GITHUB-EXPLORE-181717?style=for-the-badge&logo=github"/>
+</a>
+
+<br/><br/>
+
+**BUILD. EXPLORE. SECURE. CONTRIBUTE. LEVEL UP.**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:00D9FF,50:5429A6,100:080B1A&section=footer&animation=twinkling"/>
 
 </div>
